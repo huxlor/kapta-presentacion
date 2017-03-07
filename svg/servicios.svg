@@ -1,0 +1,29 @@
+<svg id="66349619-1347-40d4-a2c6-b8c3bac36a49" data-name="Menú Principal" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 335.1 369">
+  <defs>
+    <style>
+      .\31 e4e5042-f44c-45b0-9fb4-bac967c931ad, .\34 35c2a66-b2cd-4353-b0b1-586eb9e1ee0b {
+        fill: #c6d4de;
+      }
+
+      .f8e96b17-0609-4985-90f0-11948608fb65 {
+        fill: #036;
+      }
+
+      .\31 e4e5042-f44c-45b0-9fb4-bac967c931ad {
+        font-size: 40px;
+        font-family: Segoe UI;
+        font-weight: 700;
+      }
+
+      .a4f3320a-bdbb-403d-9335-12f8a31c018e {
+        letter-spacing: 1px;
+      }
+    </style>
+  </defs>
+  <title>servicios</title>
+  <g id="ff6e6f73-4404-4d2e-a548-65db6537a8d4" data-name="Nuestros Servicios">
+    <circle class="435c2a66-b2cd-4353-b0b1-586eb9e1ee0b" cx="171.5" cy="135.5" r="135.5"/>
+    <path class="f8e96b17-0609-4985-90f0-11948608fb65" d="M1065.4,634.7h-43.3V624a21.6,21.6,0,0,0-21.6-21.6H957.1A21.6,21.6,0,0,0,935.5,624v10.7H892.2a7.7,7.7,0,0,0-7.7,7.7V751.7a7.7,7.7,0,0,0,7.7,7.7h173.1a7.7,7.7,0,0,0,7.7-7.7V642.4A7.7,7.7,0,0,0,1065.4,634.7ZM951,623.9a6.2,6.2,0,0,1,6.2-6.2h43.4a6.2,6.2,0,0,1,6.2,6.2v10.7H951V623.9h0Z" transform="translate(-806.7 -553.8)"/>
+    <text class="1e4e5042-f44c-45b0-9fb4-bac967c931ad" transform="translate(0 330.6)">Nuest<tspan x="107" y="0">r</tspan><tspan x="121.4" y="0">os Se</tspan><tspan class="a4f3320a-bdbb-403d-9335-12f8a31c018e" x="216.6" y="0">r</tspan><tspan x="233" y="0">vicios</tspan></text>
+  </g>
+</svg>

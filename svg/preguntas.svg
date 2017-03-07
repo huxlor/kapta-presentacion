@@ -1,0 +1,29 @@
+<svg id="30309835-f1f2-4cc6-a74e-01d3adff4689" data-name="Formación" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 183.9 187.6">
+  <defs>
+    <style>
+      .\32 68db7b5-b518-43f1-9099-c7730462bf0a, .\37 3c9c700-7190-487f-8684-7c87588b3f3b {
+        fill: #c6d4de;
+      }
+
+      .\37 3c9c700-7190-487f-8684-7c87588b3f3b {
+        font-size: 25px;
+        font-family: Segoe UI;
+        font-weight: 700;
+      }
+
+      .\39 a028a74-e295-4a4e-8a21-1c88e88c1e7a {
+        fill: #036;
+      }
+    </style>
+  </defs>
+  <title>preguntas</title>
+  <g id="2a903c9a-e8a0-46f2-9536-eae67ecd87c4" data-name="Consultoría2">
+    <circle class="268db7b5-b518-43f1-9099-c7730462bf0a" cx="92.5" cy="60.4" r="60.4"/>
+    <text class="73c9c700-7190-487f-8684-7c87588b3f3b" transform="translate(35 156.6)">P<tspan x="14.6" y="0">r</tspan><tspan x="23.6" y="0">eguntas</tspan></text>
+  </g>
+  <g>
+    <path class="9a028a74-e295-4a4e-8a21-1c88e88c1e7a" d="M6857.5,2259.3h-10.2c0-10.2,6.1-13.3,10.3-15.4a8.3,8.3,0,0,0,3.6-2.1,2.7,2.7,0,0,0,.5-3.6c-1-2.6-4.1-5.1-8.7-5.1-7.2,0-8.2,6.2-8.7,7.7l-10.2-1.5c0.5-5.6,5.1-16.4,18.4-16.4,8.2,0,15.4,4.6,18.5,11.3s1,11.3-3.1,15.4a12.9,12.9,0,0,1-6.1,3.6C6858.5,2255.2,6857.5,2254.2,6857.5,2259.3Z" transform="translate(-6759.8 -2188.6)"/>
+    <path class="9a028a74-e295-4a4e-8a21-1c88e88c1e7a" d="M6852.3,2213.2a35.9,35.9,0,1,1-35.9,35.9A35.7,35.7,0,0,1,6852.3,2213.2Zm0-5.1a41,41,0,1,0,41,41,41.1,41.1,0,0,0-41-41h0Z" transform="translate(-6759.8 -2188.6)"/>
+    <path class="9a028a74-e295-4a4e-8a21-1c88e88c1e7a" d="M6846.7,2264.4h10.2v10.3h-10.2v-10.2h0Z" transform="translate(-6759.8 -2188.6)"/>
+  </g>
+</svg>

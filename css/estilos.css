@@ -1,0 +1,891 @@
+*{
+		margin: 0;
+		padding: 0;
+	}
+
+@font-face{
+    
+	    font-family:"Plateia Bold";
+	    src: url("../fonts/Plateia_Bold.eot");
+	    src: url("../fonts/Plateia_Bold.eot?#iefix")
+	    format(embedded-opentype),
+	    url("../fonts/Plateia_Bold.woff")
+	    format("woff"),
+	    url("../fonts/Plateia_Bold.ttf")
+	    format(truetype),
+	    url("../fonts/Plateia_Bold.svg#Plateia_Bold")
+	    format("svg");
+	    
+	    font-weight: normal;
+	    font-style: normal;   
+	}
+
+/* Banner Principal con Logo */
+#blanco_principal{
+	position: absolute;
+	z-index: 5;
+	width: 100%;
+	height: 99vh;
+	/*height: 200px;*/
+	background-color: #ffffff;
+}
+
+#verde_linea{
+	position: absolute;
+	z-index: 4;
+	width: 100%;
+	height: 100vh;
+	/*height: 206px;*/
+	background-color: #99cc33;
+}
+
+#kapta_logo{
+	position: absolute;
+	width: 80%;
+	height: 150px;
+	top: 45%;
+	margin-top: -75px;
+	margin-left: 10%;
+	/*background-color: red;*/
+}
+
+#kapta_logo svg{
+	width: 800px;
+	position: absolute;
+	left: 50%;
+	margin-left: -400px;
+}
+/* Banner Principal con Logo */
+/* Menu Principal */
+#contenedor_azul{
+	position: absolute;
+	z-index: 2;
+	width: 100%;
+	height: 100vh;
+	background-color: #003366;
+}
+
+.contenedor_menuPrincipal{
+	position: absolute;
+	z-index: 3;
+	width: 80%;
+	left: 10%;
+	height: 300px;
+	/*background-color: red;*/
+	top: 300px;
+}
+
+.svg_cuadros{
+	width: 25%;
+	height: 100%;
+	/*background-color: cyan;*/
+	float: left;
+	cursor: pointer;
+}
+
+#nosotros{
+	margin-left: 12%;
+}
+
+#servicios{
+	/*background-color: orange;*/
+}
+
+#nosotros svg{
+	position: absolute;
+	z-index: 4;
+	width: 400px;
+	left: 50%;
+	margin-left: -450px;
+	top: 25%;
+	margin-top: -100px;
+}
+
+#nosotros svg:hover{
+	width: 405px;
+}
+
+#servicios svg:hover{
+	width: 215px;
+}
+
+#metodo svg:hover{
+	width: 365px;
+}
+
+#servicios svg{
+	position: absolute;
+	z-index: 4;
+	width: 210px;
+	left: 50%;
+	margin-left: -105px;
+	top: 25%;
+	margin-top: -100px;
+}
+
+#metodo svg{
+	width: 360px;
+	z-index: 3;
+	position: absolute;
+	right: 50%;
+	margin-right: -450px;
+	top: 25%;
+	margin-top: -100px;
+}
+/* Menu Principal */
+
+/* -------------------------- Nosotros -------------------------------------------*/
+
+/* Banner Principal con Logo */
+#blanco_principal_nosotros{
+	position: absolute;
+	z-index: 5;
+	width: 100%;
+	height: 130px;
+	/*height: 200px;*/
+	background-color: #ffffff;
+}
+
+#texto_nosotros{
+	font-family: "Plateia";
+	font-size: 2.5em;
+	color: #003366;
+	text-align: center;
+	margin-top: 15px;
+}
+
+#verde_linea_nosotros{
+	position: absolute;
+	z-index: 4;
+	width: 100%;
+	height: 136px;
+	/*height: 206px;*/
+	background-color: #99cc33;
+}
+
+/* Banner Principal con Logo */
+/* Menu Principal */
+#contenedor_azul{
+	position: absolute;
+	z-index: 2;
+	width: 100%;
+	height: 100vh;
+	background-color: #003366;
+}
+
+.contenedor_menuPrincipal{
+	position: absolute;
+	z-index: 3;
+	width: 80%;
+	left: 10%;
+	height: 300px;
+	/*background-color: red;*/
+	top: 300px;
+}
+
+.svg_cuadros{
+	width: 25%;
+	height: 100%;
+	/*background-color: cyan;*/
+	float: left;
+	cursor: pointer;
+}
+
+#quienes{
+	margin-left: 12%;
+}
+
+#hacemos{
+	/*background-color: orange;*/
+}
+
+#quienes svg{
+	position: absolute;
+	z-index: 4;
+	width: 400px;
+	left: 50%;
+	margin-left: -450px;
+	top: 20%;
+	margin-top: -100px;
+}
+
+#quienes svg:hover{
+	width: 405px;
+}
+
+#hacemos svg:hover{
+	width: 190px;
+}
+
+#prestamos svg:hover{
+	width: 405px;
+}
+
+#hacemos svg{
+	position: absolute;
+	z-index: 4;
+	width: 185px;
+	left: 50%;
+	margin-left: -105px;
+	top: 20%;
+	margin-top: -100px;
+}
+
+#prestamos svg{
+	width: 400px;
+	z-index: 3;
+	position: absolute;
+	right: 50%;
+	margin-right: -450px;
+	top: 20%;
+	margin-top: -100px;
+}
+/* Menu Principal */
+/* Navegacion */
+
+#navegacion{
+	position: absolute;
+	z-index: 5;
+	width: 100%;
+	height: 60px;
+	/*background-color: red;*/
+	bottom: 0;
+	position: fixed;
+}
+
+#home{
+	margin-top: 5px;
+	margin-left: 10px;
+	float: left;
+}
+
+#home span{
+	font-size: 3em;
+	color: #99cc33;
+	text-decoration: none;
+}
+
+#home a{
+	text-decoration: none;
+}
+
+#home span:hover{
+	color: #ffffff;
+}
+
+#arrows{
+	position: absolute;
+	right: 0;
+	margin-right: 10px;
+	margin-top: 5px;
+}
+
+#arrows span{
+	font-size: 3em;
+	color: #99cc33;
+	text-decoration: none;
+}
+
+#arrows a{
+	text-decoration: none;
+}
+
+#arrows span:hover{
+	color: #ffffff;
+}
+
+#vector_organigrama{
+	width: 500px;
+	position: absolute;
+	left: 50%;
+	margin-left: -550px;
+	margin-top: 30px;
+}
+
+#texto_quienes{
+	margin-top: 30px;
+	position: absolute;
+	right: 50%;
+	margin-right: -550px;
+	width: 500px;
+	height: 350px;
+	/*background-color: red;*/
+	overflow: scroll;
+	overflow-x: hidden;
+	font-family: "Segoe UI";
+
+
+}
+
+/* ---------------------- Quienes Somos -------------------------------- */ 
+
+/* Banner Principal con Logo */
+#blanco_principal_quienes{
+	position: absolute;
+	z-index: 5;
+	width: 100%;
+	height: 530px;
+	/*height: 200px;*/
+	background-color: #ffffff;
+}
+
+#texto_organigrama{
+	font-family: "Plateia";
+	font-size: 2.5em;
+	color: #003366;
+	text-align: center;
+	margin-top: 15px;
+}
+
+#verde_linea_quienes{
+	position: absolute;
+	z-index: 4;
+	width: 100%;
+	height: 536px;
+	/*height: 206px;*/
+	background-color: #99cc33;
+}
+
+/* Banner Principal con Logo */
+/* Menu Principal */
+#contenedor_azul{
+	position: absolute;
+	z-index: 2;
+	width: 100%;
+	height: 100vh;
+	background-color: #003366;
+}
+
+#cont_minimenu_orga{
+	position: absolute;
+	z-index: 3;
+	width: 80%;
+	height: 80px;
+	bottom: 30px;
+	left: 10%;
+	/*background-color: cyan;*/
+}
+
+#cont_minimenu_orga svg{
+	top: 0px;
+	width: 450px;
+	position: absolute;
+	left: 50%;
+	margin-left: -250px;
+}
+
+#a8c2dd7f-8611-4769-836a-1fb5b594e751{ /* Que hacemos*/
+	cursor: pointer;
+}
+
+#e7478fc2-961b-4c7e-846a-62eb4e828f17{ /* Donde estamos */
+	cursor: pointer;
+}
+
+#explica_quienes{
+	font-family: "Segoe UI";
+	position: absolute;
+	top: 200px;
+	right: 100px;
+	width: 600px;
+	height: 200px;
+	/*background-color: red;*/
+}
+
+#explica_quienes p{
+	font-family: "Segoe UI";
+}
+
+#commo{
+	position: absolute;
+	width: 200px;
+	margin-top: 150px;
+	margin-left: 400px;
+}
+
+#expe{
+	width: 220px;
+	margin-top: 150px;
+	margin-left: 160px;
+}
+
+/* ----------------------------- Que hacemos --------------------*/
+
+/* Banner Principal con Logo */
+#blanco_principal_hacemos{
+	position: absolute;
+	z-index: 5;
+	width: 100%;
+	height: 530px;
+	/*height: 200px;*/
+	background-color: #ffffff;
+}
+
+#texto_hacemos{
+	font-family: "Plateia";
+	font-size: 2.5em;
+	color: #003366;
+	text-align: center;
+	margin-top: 15px;
+}
+
+#verde_linea_hacemos{
+	position: absolute;
+	z-index: 4;
+	width: 100%;
+	height: 536px;
+	/*height: 206px;*/
+	background-color: #99cc33;
+}
+
+/* Banner Principal con Logo */
+/* Menu Principal */
+#contenedor_azul{
+	position: absolute;
+	z-index: 2;
+	width: 100%;
+	height: 100vh;
+	background-color: #003366;
+}
+
+#cont_minimenu_hacemos{
+	z-index: 3;
+	width: 80%;
+	height: 80px;
+	bottom: 30px; 
+	left: 10%;
+	/*background-color: cyan;*/
+}
+
+#cont_minimenu_hacemos svg{
+	top: 0px;
+	width: 450px;
+	position: absolute;
+	left: 50%;
+	margin-left: -250px;
+}
+
+#a8c2dd7f-8611-4769-836a-1fb5b594e751{ /* Que hacemos*/
+	cursor: pointer;
+}
+
+#e7478fc2-961b-4c7e-846a-62eb4e828f17{ /* Donde estamos */
+	cursor: pointer;
+}
+
+#r149dc5a1-b4d2-4c44-86d9-443f9cd01736{
+	cursor: pointer;
+}
+
+#ca37691c-9ff5-4bd4-9e9a-1755cffccb73{
+	cursor: pointer;
+}
+
+/* Donde estamos */
+
+#c5c3294f9-1074-41e0-b423-a8d3273e98b3{
+	cursor: pointer;
+}
+
+#r0eb7e773-fc3e-4949-8953-782bfabb795a{
+	cursor: pointer;
+}
+
+/* Que hacemos red servicios */
+
+#red_servicios svg{
+	margin-top: 60px;
+	margin-left: 250px;
+	width: 1000px;
+}
+
+/* Mapa */
+
+.mapa svg{
+	width: 600px;
+	position: absolute;
+	left: 50%;
+	/*margin-left: -600px;*/
+	margin-left: -300px;
+	top:150px;
+}
+
+/* Regiones */
+
+#fcf74d56-082f-4f04-a63a-06ad99bd82d9{ /* Rojo */
+	cursor: pointer;
+}
+
+#v098324a3-6fac-474e-b117-df28773a8a25{ /* Morado */
+	cursor: pointer;
+}
+
+#ad66f467-a0af-46ea-bd88-8ae7862f4d1a{ /* Verde */
+	cursor: pointer;
+}
+
+#cdaff5aa-0696-412a-ac8c-038fe2736a73{ /* Naranja */
+	cursor: pointer;
+}
+
+#y12a21af9-86a9-48af-9694-dbccfe6ca728{ /* Azul */
+	cursor: pointer;
+}
+
+#b53b07599-4885-4eed-b7bf-789cd1a1159f{ /* Amarillo */
+	cursor: pointer;
+}
+
+/* Pines de colores */
+
+#aae83dd7-f251-49d3-881d-6a811140e0ce{ /* Norteamerica */
+	
+	display: none;
+}
+
+#b213fc6c9-fdb5-4e91-8b6b-c6faf8e6b136{ /* Centro America */
+	
+	display: none;
+}
+
+#u6b9d26ec-7d25-4a27-8b9f-837926be1feb{ /* Caribe */
+	
+	display: none;
+}
+
+#c7cc4d226-2432-4a82-9284-243566098bf6{ /* Suramerica */
+
+	display: none;
+}
+
+#v4dbc237b-1145-483c-9418-c6f525c052af{ /*Europa*/
+	
+	display: none;
+}
+
+#r3d79baf5-a5df-4031-9680-5aa321bd85d5{ /*MedioOriente*/
+	
+	display: none;
+}
+
+.ubica_regi{
+	top: 150px;
+	right: 100px;
+	position: absolute;
+	width: 400px;
+}
+
+/* Menu Servicios */
+
+#c37b6138e-dc43-47ea-bc45-3336c7919ba4{
+	cursor: pointer;
+}
+
+#a229c37a-e622-45fd-ae11-355b51631517{
+	cursor: pointer;
+}
+
+#f37c31b8-9a3e-4925-86ee-71c462ad0d98{
+	cursor: pointer;
+}
+
+#t45477d4b-6bef-4b6f-aea9-1fbc5f1155a3{
+	cursor: pointer;
+}
+
+/* Formacion texto */
+
+#r0d309cda-cbaf-4e11-8ab7-0d0982e800ec{
+	cursor: pointer;
+}
+
+#v5ce32114-8adb-419e-a131-9e162cd8de1a{
+	cursor: pointer;
+}
+
+#t4fcb25d6-981a-4545-834d-714b8e0a670b{
+	cursor: pointer;
+}
+
+#texto_formacion{
+	position: absolute;
+	font-family: "Segoe UI";
+	width: 600px;
+	left: 50%;
+	margin-left: -600px;
+	margin-top: 60px;
+}
+
+/* Formacion Imagen */
+
+#lista_images{
+	position: absolute;
+	right: 50%;
+	width: 600px;
+	height: 300px;
+	margin-top: 60px;
+	margin-right: -600px;
+	/*background-color: red;*/
+
+}
+
+#lista_images li{
+	display: inline;
+}
+
+.modifica_tamano{
+	padding-left: 80px;
+	width: 450px;
+}
+
+/* Formacion 2*/
+
+#img1_f{
+	position: absolute;
+}
+
+#img1_f img{
+	margin-top: 60px;
+	margin-left: 400px;
+	width: 400px;
+}
+
+#img2_f{
+	position: absolute;
+}
+
+#img2_f img{
+	margin-top: 60px;
+	margin-left: 850px;
+	width: 200px;
+}
+
+#img3_f{
+	position: absolute;
+}
+
+#img3_f img{
+	margin-top: 230px;
+	margin-left: 850px;
+	width: 200px;
+}
+
+#info_centrof p{
+	font-family: "Segoe UI";
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 20px;
+	text-align: center;
+}
+
+#b0d309cda-cbaf-4e11-8ab7-0d0982e800ec{
+	cursor: pointer;
+}
+
+#e5ce32114-8adb-419e-a131-9e162cd8de1a{
+	cursor: pointer;
+}
+
+#t4fcb25d6-981a-4545-834d-714b8e0a670b{
+	cursor: pointer;
+}
+
+/* Gr Humano */
+
+#info_centrogr p{
+	font-family: "Segoe UI";
+	width: 500px;
+	height: 300px;
+	/*background-color: red;*/
+	position: absolute;
+	left: 50%;
+	margin-left: -550px;
+	text-align: justify;
+	margin-top: 50px;
+}
+
+#info_centrogrr p{
+	font-family: "Segoe UI";
+	width: 500px;
+	height: 200px;
+	/*background-color: red;*/
+	position: absolute;
+	left: 0%;
+	text-align: justify;
+	margin-top: 0px;
+}
+
+#img1_rh img{
+	position: absolute;
+	width: 500px;
+	padding-left: 55px;
+}
+
+#img3_rh img{
+	width: 200px;
+}
+
+
+.ajuste_img{
+	position: absolute;
+	width: 600px;
+	height: 400px;
+	/*background-color: red;*/
+	right: 50%;
+	margin-right: -600px;
+	margin-top: 50px;
+	
+}
+
+#f8c55e66d-ae6f-497a-a55a-9d4b97e818b3{
+	cursor: pointer;
+}
+
+#h1b9782ad-3c2c-4254-bc69-54ef82be10a9{
+	cursor: pointer;
+}
+
+#d7b692d3-41d3-4974-8784-39564eb58448{
+	cursor: pointer;
+}
+
+/* consultoria */
+
+#bolitas svg{
+	width: 400px;
+	position: absolute;
+	right: 50%;
+	margin-right: -400px;
+	margin-top: 30px;
+}
+
+#bolitas #cd54c5be-0972-4a23-84bc-dc794ec94660{
+	width: 500px;
+	position: absolute;
+	right: 50%;
+	margin-right: -250px;
+	margin-top: 50px;
+}
+
+#info_centroaudi{
+	position: absolute;
+	width: 900px;
+	height: 300px;
+	left: 50%;
+	margin-left: -450px;
+	margin-top: 50px;
+}
+
+#f1f75059-1dca-4726-a78e-b2ffb6a52975{
+	cursor: pointer;
+}
+
+#ace83217-c92f-42fa-b7e3-ec2be3149b8b{
+	cursor: pointer;
+}
+
+#b92f58f54-a31f-4fae-99f5-916d437a53da{
+	cursor: pointer;
+}
+
+/* Auditoria */
+
+#v1e559065-77e1-4af1-8e60-b6f9b2d328e2{
+	cursor: pointer;
+}
+
+#db199414-47fa-4b3e-9c22-bfea2b31ad41{
+	cursor: pointer;
+}
+
+#u93335a35-cae9-436d-814b-58e8c90e7b3c{
+	cursor: pointer;
+}
+
+/*Ejemplos */
+
+#ejemplo_img_1{
+	top: 150px;
+	position: absolute;
+	left: 50%;
+	margin-left: -420px;
+}
+
+#ejemplo_img_1 p{
+	margin-top: 10px;
+	margin-left: 0px;
+
+}
+
+#ejemplo_img_2 p{
+	margin-top: 10px;
+	margin-left: 0px;
+}
+
+#ejemplo_img_2{
+	top: 150px;
+	position: absolute;
+	left: 50%;
+	margin-left: 20px;
+}
+
+
+#ejemplo_img_1 img{
+	width: 400px;
+}
+
+#ejemplo_img_2 img{
+	width: 420px;
+}
+
+#cont_minimenu_orgaa{
+	position: absolute;
+	z-index: 3;
+	width: 80%;
+	height: 80px;
+	bottom: 30px;
+	left: 10%;
+	/*background-color: cyan;*/
+}
+
+#cont_minimenu_orgaa svg{
+	top: 0px;
+	width: 100px;
+	position: absolute;
+	left: 50%;
+	margin-left: -50px;
+}
+
+/*Preguntas*/
+
+#cont_preguntas img{
+	position: absolute;
+	width: 300px;
+	left: -100px;
+	top: 0px;
+}
+
+#datos p{
+	width: 400px;
+	position: absolute;
+	left: 700px;
+	top: 100px;
+	font-family: "Segoe UI";
+	font-size: 1em;
+}
+
+#datos{
+	position: absolute;
+}
+
+#derecho p{
+	font-family: "Segoe UI";
+	position: absolute;
+	bottom: 15px;
+	font-size: 0.8em;
+	text-align: center;
+	width: 90%;
+	margin-left: 5%;
+}
+
+/*Rescate*/

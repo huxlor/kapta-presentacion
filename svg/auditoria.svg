@@ -1,0 +1,48 @@
+<svg id="cd54c5be-0972-4a23-84bc-dc794ec94660" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 404.9 183.8">
+  <defs>
+    <style>
+      .\33 9ea24c0-cd55-4077-a5f5-46b256bf028f, .\38 fe4de06-8a53-4e17-a552-1b53220b6849 {
+        fill: #fff;
+      }
+
+      .\37 bea4996-f4e8-4b5d-827c-0eaae2e3e97b, .\38 fe4de06-8a53-4e17-a552-1b53220b6849 {
+        stroke: #036;
+      }
+
+      .\37 bea4996-f4e8-4b5d-827c-0eaae2e3e97b, .\38 fe4de06-8a53-4e17-a552-1b53220b6849, .d6d14c20-9727-4052-977b-459b6109b574 {
+        stroke-miterlimit: 10;
+      }
+
+      .\38 fe4de06-8a53-4e17-a552-1b53220b6849, .d6d14c20-9727-4052-977b-459b6109b574 {
+        stroke-width: 3px;
+      }
+
+      .\33 9ea24c0-cd55-4077-a5f5-46b256bf028f, .\35 3048cc7-2765-4bae-b397-c51b154f5ca0 {
+        font-size: 12px;
+        font-family: Segoe UI;
+      }
+
+      .\37 bea4996-f4e8-4b5d-827c-0eaae2e3e97b {
+        fill: none;
+        stroke-width: 2px;
+      }
+
+      .d6d14c20-9727-4052-977b-459b6109b574 {
+        fill: #9c3;
+        stroke: #9c3;
+      }
+    </style>
+  </defs>
+  <title>auditoria</title>
+  <circle class="8fe4de06-8a53-4e17-a552-1b53220b6849" cx="46.7" cy="91.3" r="45.2"/>
+  <text class="53048cc7-2765-4bae-b397-c51b154f5ca0" transform="translate(16.6 79.9)">Algunos de <tspan x="6.3" y="14.4">Nuestros </tspan><tspan x="5.7" y="28.8">Servicios:</tspan></text>
+  <line class="7bea4996-f4e8-4b5d-827c-0eaae2e3e97b" x1="91.8" y1="91.3" x2="164" y2="91.3"/>
+  <line class="7bea4996-f4e8-4b5d-827c-0eaae2e3e97b" x1="164" y1="91.3" x2="268.6" y2="91.3"/>
+  <path class="7bea4996-f4e8-4b5d-827c-0eaae2e3e97b" d="M413.3,82.8H312a12,12,0,0,0-12,12V196.1a12,12,0,0,0,12,12H413.3" transform="translate(-136 -54.1)"/>
+  <rect class="d6d14c20-9727-4052-977b-459b6109b574" x="268.6" y="1.5" width="134.8" height="55.48" rx="6.8" ry="6.8"/>
+  <rect class="d6d14c20-9727-4052-977b-459b6109b574" x="268.6" y="64.1" width="134.8" height="55.48" rx="6.8" ry="6.8"/>
+  <rect class="d6d14c20-9727-4052-977b-459b6109b574" x="268.6" y="126.8" width="134.8" height="55.48" rx="6.8" ry="6.8"/>
+  <text class="39ea24c0-cd55-4077-a5f5-46b256bf028f" transform="translate(311.2 32.3)">Garantías</text>
+  <text class="39ea24c0-cd55-4077-a5f5-46b256bf028f" transform="translate(312.5 157.6)">Procesos</text>
+  <text class="39ea24c0-cd55-4077-a5f5-46b256bf028f" transform="translate(307.6 80.8)">Estandares <tspan x="21.7" y="14.4">de </tspan><tspan x="-14.2" y="28.8">Funcionamiento</tspan></text>
+</svg>

@@ -1,0 +1,44 @@
+<svg id="286e08c8-523b-46e4-b243-b65f491e44c9" data-name="Menú Principal" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 585 366">
+  <defs>
+    <style>
+      .\33 3908f26-3831-425a-a7dd-18b2e68ad3af, .d682fc1f-36af-4d74-bb9f-cc30f2eb7750 {
+        fill: none;
+        stroke: #c6d4de;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 11.57px;
+      }
+
+      .\33 3908f26-3831-425a-a7dd-18b2e68ad3af {
+        stroke-dasharray: 3.81 22.85;
+      }
+
+      .\31 bc2792b-c8ed-4a4c-8c9b-98a4b100013a, .\38 e6f6400-a738-4d4c-acfd-c20ca66463d3 {
+        fill: #c6d4de;
+      }
+
+      .\39 0833bc4-c384-4d7c-a710-1739f70023bb {
+        fill: #036;
+      }
+
+      .\38 e6f6400-a738-4d4c-acfd-c20ca66463d3 {
+        font-size: 40px;
+        font-family: Segoe UI;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <title>metodo</title>
+  <g id="773ec22b-1404-47ff-95be-7c60651b0403" data-name="Path">
+    <g>
+      <line class="d682fc1f-36af-4d74-bb9f-cc30f2eb7750" x1="5.8" y1="135.5" x2="7.7" y2="135.4"/>
+      <line class="33908f26-3831-425a-a7dd-18b2e68ad3af" x1="30.6" y1="135.2" x2="285.7" y2="132.1"/>
+      <line class="d682fc1f-36af-4d74-bb9f-cc30f2eb7750" x1="297.1" y1="132" x2="299" y2="132"/>
+    </g>
+  </g>
+  <g id="6ac0e167-e050-4081-9aba-9cc9eab705a3" data-name="Nuestro Método">
+    <circle class="1bc2792b-c8ed-4a4c-8c9b-98a4b100013a" cx="421.6" cy="135.5" r="135.5"/>
+    <path class="90833bc4-c384-4d7c-a710-1739f70023bb" d="M1625.3,683.9l-29.2-29.2c-2.8-2.8-1.9-5.7,1.9-6.6,0,0,3.2-.7,7.1-4.6a21.4,21.4,0,1,0-30.3-30.3c-3.9,3.9-4.6,7.1-4.6,7.1-0.9,3.8-3.8,4.7-6.6,1.9l-29.2-29.1a7.2,7.2,0,0,0-10.1,0l-29.1,29.1c-2.8,2.8-1.9,5.8,1.9,6.6,0,0,3.2.7,7.1,4.6a21.4,21.4,0,0,1-30.3,30.3c-3.9-3.9-4.6-7.1-4.6-7.1-0.9-3.8-3.8-4.7-6.6-1.9l-29.1,29.2a7.1,7.1,0,0,0,0,10.1l29.1,29.2c2.8,2.8,1.9,5.7-1.9,6.6,0,0-3.2.7-7.1,4.6a21.4,21.4,0,0,0,30.3,30.3c3.9-3.9,4.6-7.1,4.6-7.1,0.9-3.8,3.8-4.7,6.6-1.9l29.2,29.1a7.2,7.2,0,0,0,10.1,0l29.2-29.1c2.8-2.8,1.9-5.8-1.9-6.6,0,0-3.2-.7-7.1-4.6a21.4,21.4,0,0,1,30.3-30.3c3.9,3.9,4.6,7.1,4.6,7.1,0.9,3.8,3.8,4.7,6.6,1.9l29.2-29.2A7.2,7.2,0,0,0,1625.3,683.9Z" transform="translate(-1107.9 -553.8)"/>
+    <text class="8e6f6400-a738-4d4c-acfd-c20ca66463d3" transform="translate(278.9 330.6)">Nuest<tspan x="107" y="0">r</tspan><tspan x="121.4" y="0">o Mé</tspan><tspan x="214.5" y="0">t</tspan><tspan x="228.8" y="0">odo</tspan></text>
+  </g>
+</svg>

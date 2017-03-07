@@ -1,0 +1,44 @@
+<svg id="0c48ebd3-8b5b-4602-8ee0-8b56d0f084f0" data-name="Menú Principal" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 636.8 361">
+  <defs>
+    <style>
+      .\39 9e443dd-2546-4702-82ff-ade832cab5ed, .bd43a074-6880-4eda-a439-6350adfede1e {
+        fill: none;
+        stroke: #c6d4de;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 11.57px;
+      }
+
+      .bd43a074-6880-4eda-a439-6350adfede1e {
+        stroke-dasharray: 3.87 23.19;
+      }
+
+      .\35 14d6dcd-0b98-4633-879b-bbeac814fa6f, .a15db034-5507-4566-af62-a48090c8b1ec {
+        fill: #c6d4de;
+      }
+
+      .\34 eef51ae-ebda-404b-9b4f-4ec7f4611bee {
+        fill: #036;
+      }
+
+      .a15db034-5507-4566-af62-a48090c8b1ec {
+        font-size: 40px;
+        font-family: Segoe UI;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <title>nosotros</title>
+  <g id="a363d1c9-e8a0-4849-900f-5fb4766fbe33" data-name="Path">
+    <g>
+      <line class="99e443dd-2546-4702-82ff-ade832cab5ed" x1="306.3" y1="133.2" x2="308.3" y2="133.2"/>
+      <line class="bd43a074-6880-4eda-a439-6350adfede1e" x1="331.5" y1="133.3" x2="617.5" y2="135.4"/>
+      <line class="99e443dd-2546-4702-82ff-ade832cab5ed" x1="629.1" y1="135.4" x2="631" y2="135.5"/>
+    </g>
+  </g>
+  <g id="228c50fc-d088-4b71-b405-ca541b93f88f" data-name="Acerca de Nosotros">
+    <circle class="514d6dcd-0b98-4633-879b-bbeac814fa6f" cx="180.1" cy="135.5" r="135.5"/>
+    <path class="4eef51ae-ebda-404b-9b4f-4ec7f4611bee" d="M414.6,633.6A36.8,36.8,0,0,1,431.8,661,29.8,29.8,0,1,0,414.6,633.6Zm-19.5,61a29.8,29.8,0,1,0-29.8-29.8A29.8,29.8,0,0,0,395.1,694.6Zm12.6,2H382.5a38.2,38.2,0,0,0-38.1,38.2v31.4l2.1,0.7c20.1,6.3,37.5,8.4,51.8,8.4,28,0,44.3-8,45.3-8.5l2-1h0.2V734.8A38.1,38.1,0,0,0,407.7,696.7ZM457,665.9H432a36.8,36.8,0,0,1-11.3,25.6A45.3,45.3,0,0,1,453,734.8v9.5c24.8-.9,39-7.9,40-8.4l2-1h0.2V704A38.2,38.2,0,0,0,457,665.9Zm-114.2-2.1a29.5,29.5,0,0,0,15.8-4.6,36.9,36.9,0,0,1,13.8-23.5c0-.6.1-1.1,0.1-1.7A29.8,29.8,0,1,0,342.8,663.8Zm26.8,27.6A36.6,36.6,0,0,1,358.3,666l-2.8-.2H330.2A38.2,38.2,0,0,0,292.1,704v31.4l2.1,0.7a179.5,179.5,0,0,0,43,8.1v-9.3A45.3,45.3,0,0,1,369.6,691.5Z" transform="translate(-211.7 -553.8)"/>
+    <text class="a15db034-5507-4566-af62-a48090c8b1ec" transform="translate(0 330.6)">Ace<tspan x="66.9" y="0">r</tspan><tspan x="81.4" y="0">ca de Nosot</tspan><tspan x="298.6" y="0">r</tspan><tspan x="313" y="0">os</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,53 @@
+<svg id="f07a3931-424f-49d6-a0ec-19e009bff44e" data-name="Acerca Menú" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 621 356">
+  <defs>
+    <style>
+      .\31 11fc321-91a5-4019-b78c-d25991a7648b, .db1964fb-0e0c-435d-83fd-0761be7df3e9 {
+        fill: none;
+        stroke: #c6d4de;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+        stroke-width: 11.57px;
+      }
+
+      .\31 11fc321-91a5-4019-b78c-d25991a7648b {
+        stroke-dasharray: 3.93 23.57;
+      }
+
+      .\39 19235e2-4333-482a-aabc-22f6271fcf14, .f84d4e38-2404-4944-b4c4-09829ec8bff4 {
+        fill: #c6d4de;
+      }
+
+      .\39 19235e2-4333-482a-aabc-22f6271fcf14 {
+        font-size: 40px;
+        font-family: Segoe UI;
+      }
+
+      .\37 c8fccbe-ba77-4f6b-abef-716adfdec74f, .\39 19235e2-4333-482a-aabc-22f6271fcf14 {
+        font-weight: 700;
+      }
+
+      .\37 c8fccbe-ba77-4f6b-abef-716adfdec74f {
+        font-size: 100px;
+        font-family: Plateia;
+      }
+
+      .\37 c8fccbe-ba77-4f6b-abef-716adfdec74f, .e2715e5d-8d26-4e1d-9803-62a584ce54b9 {
+        fill: #036;
+      }
+    </style>
+  </defs>
+  <title>quienes</title>
+  <g id="53b92861-068f-4d0b-8061-f42a7d593ed8" data-name="Path">
+    <g>
+      <line class="db1964fb-0e0c-435d-83fd-0761be7df3e9" x1="285.3" y1="133.2" x2="287.3" y2="133.2"/>
+      <line class="111fc321-91a5-4019-b78c-d25991a7648b" x1="310.8" y1="133.1" x2="601.5" y2="132.7"/>
+      <line class="db1964fb-0e0c-435d-83fd-0761be7df3e9" x1="613.3" y1="132.7" x2="615.3" y2="132.7"/>
+    </g>
+  </g>
+  <g id="e41e7eda-a934-489f-adf7-62df83360968" data-name="Quienes">
+    <circle class="f84d4e38-2404-4944-b4c4-09829ec8bff4" cx="159.1" cy="135.5" r="135.5"/>
+    <text class="919235e2-4333-482a-aabc-22f6271fcf14" transform="translate(0 330.6)">¿Quienes Somos?</text>
+    <text class="7c8fccbe-ba77-4f6b-abef-716adfdec74f" transform="translate(121.6 90.2)">?</text>
+    <path class="e2715e5d-8d26-4e1d-9803-62a584ce54b9" d="M2351.1,680.5a30.4,30.4,0,0,1,14.2,22.6A24.6,24.6,0,1,0,2351.1,680.5ZM2335,730.8a24.6,24.6,0,1,0-24.6-24.6A24.5,24.5,0,0,0,2335,730.8Zm10.4,1.7h-20.8a31.5,31.5,0,0,0-31.4,31.5v25.9l1.8,0.6a143.2,143.2,0,0,0,42.7,6.9c23.1,0,36.5-6.6,37.3-7l1.6-.8h0.2V763.9A31.5,31.5,0,0,0,2345.4,732.4Zm40.6-25.3h-20.7a30.3,30.3,0,0,1-9.4,21.1,37.4,37.4,0,0,1,26.7,35.7v7.8c20.4-.8,32.2-6.5,33-6.9l1.6-.8h0.2V738.5A31.5,31.5,0,0,0,2386.1,707.1Zm-94.2-1.7a24.3,24.3,0,0,0,13-3.8,30.4,30.4,0,0,1,11.4-19.4c0-.5.1-0.9,0.1-1.4A24.6,24.6,0,1,0,2291.9,705.4Zm22.1,22.8a30.2,30.2,0,0,1-9.3-21h-23.2a31.5,31.5,0,0,0-31.4,31.5v25.9l1.8,0.6a148,148,0,0,0,35.4,6.7v-7.7A37.3,37.3,0,0,1,2314,728.1Z" transform="translate(-2172.7 -553.8)"/>
+  </g>
+</svg>
